@@ -1,0 +1,11 @@
+.block_inactiveuseralert .alerthead {
+    font-weight: bold;
+}
+
+.block_inactiveuseralert .enabled-no {
+    color: #F00;
+}
+
+.block_inactiveuseralert .enabled-yes {
+    color: #0C0;
+}
